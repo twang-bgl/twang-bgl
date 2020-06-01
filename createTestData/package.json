@@ -1,0 +1,32 @@
+{
+  "name": "sf360-mocha",
+  "version": "1.0.0",
+  "description": "This is automated SF360 API test project by using Node, Mocha, Chai and Axios.",
+  "main": "index.js",
+  "scripts": {
+    "test1": "mocha --exit ./test/specs/createEntities.spec.js",
+    "test2": "mocha --exit ./test/specs/createEntityRelationships.spec.js"
+  },
+  "author": "Richard Hor",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.597.0",
+    "chai-subset": "^1.6.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "faker": "^4.1.0",
+    "mocha": "^7.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "axios-cookiejar-support": "^0.5.1",
+    "babel-eslint": "^10.0.3",
+    "chai": "^4.2.0",
+    "glob": "^7.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "otplib": "^11.0.1",
+    "tough-cookie": "^3.0.1"
+  }
+}

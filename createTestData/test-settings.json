@@ -1,0 +1,20 @@
+{
+  "entitySetup": {
+    "person": 2,
+    "trust": 2,
+    "company": 2,
+    "otherEntity": 2,
+    "smsf": 2,
+    "billableTrust": 2,
+    "billableCompany": 2
+  },
+  "entityRelationships": [
+    {
+      "entityToType": "PersonProxy",
+      "entityToId": "8ad08a08726dbe6601726df09d960002",
+      "entityPosition": ["random","random"],
+      "entityFromType": "SMSF",
+      "relationship": 2
+    }
+  ]
+}
