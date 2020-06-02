@@ -1,0 +1,5192 @@
+[
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waters, Eichmann and Waelchi",
+    "entityCode": "WATERS,E0087",
+    "estDate": "2005-09-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08afe726e7c6801726e892b2c0001"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Johns Inc",
+    "entityCode": "JOHNSINC0088",
+    "estDate": "2008-03-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a16726e7c1401726e892e000001"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Quigley - Sawayn",
+    "entityCode": "QUIGLEY-0089",
+    "estDate": "2014-04-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a16726e7c1401726e8930a00002"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Harvey, Rosenbaum and Kub",
+    "entityCode": "HARVEY,R0090",
+    "estDate": "2010-12-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a16726e7c1401726e89331f0003"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Metz - O'Conner",
+    "entityCode": "METZ-O'C0091",
+    "estDate": "2009-08-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a16726e7c1401726e8935a70004"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Willms and Sons",
+    "entityCode": "WILLMSAN0092",
+    "estDate": "2009-09-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a16726e7c1401726e8938020005"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stiedemann Inc",
+    "entityCode": "STIEDEMA0093",
+    "estDate": "2005-05-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a16726e7c1401726e893a4e0006"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dach - Ruecker",
+    "entityCode": "DACH-RUE0094",
+    "estDate": "2005-03-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a16726e7c1401726e893cca0007"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hudson - Monahan",
+    "entityCode": "HUDSON-M0095",
+    "estDate": "2009-08-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08afe726e7c6801726e893ede0002"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kemmer - Sporer",
+    "entityCode": "KEMMER-S0096",
+    "estDate": "2006-10-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a16726e7c1401726e89417d0008"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dach Inc",
+    "entityCode": "DACHINC00108",
+    "estDate": "2012-02-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a16726e7c1401726e9a7d370011"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bartell and Sons",
+    "entityCode": "BARTELLA0111",
+    "estDate": "2012-07-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea3b8a60005"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Langosh - Emard",
+    "entityCode": "LANGOSH-0167",
+    "estDate": "2011-05-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea8667a00b8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rempel LLC",
+    "entityCode": "REMPELLL0169",
+    "estDate": "2011-12-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ea8688c00b8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Zboncak, Osinski and Raynor",
+    "entityCode": "ZBONCAK,0171",
+    "estDate": "2009-01-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea86a8400ba"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Crona Group",
+    "entityCode": "CRONAGRO0173",
+    "estDate": "2006-08-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea86cd600bb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hansen - McCullough",
+    "entityCode": "HANSEN-M0175",
+    "estDate": "2011-09-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea86ee200bb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schimmel - Hodkiewicz",
+    "entityCode": "SCHIMMEL0177",
+    "estDate": "2010-04-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea870e100bc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Haley Group",
+    "entityCode": "HALEYGRO0178",
+    "estDate": "2013-01-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8736000be"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rippin and Sons",
+    "entityCode": "RIPPINAN0181",
+    "estDate": "2013-01-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ea8756500be"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Powlowski - Bins",
+    "entityCode": "POWLOWSK0182",
+    "estDate": "2008-07-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ea8778b00bf"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kautzer LLC",
+    "entityCode": "KAUTZERL0183",
+    "estDate": "2014-05-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea879c900c1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez, Gutmann and Walsh",
+    "entityCode": "RODRIGUE0185",
+    "estDate": "2011-09-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea87bfd00c3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Howell - Leuschke",
+    "entityCode": "HOWELL-L0187",
+    "estDate": "2005-11-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea87e6200c4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lehner, Schultz and Gottlieb",
+    "entityCode": "LEHNER,S0190",
+    "estDate": "2012-12-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8805e00c5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sipes, Hilpert and Kris",
+    "entityCode": "SIPES,HI0192",
+    "estDate": "2010-10-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea882ca00c6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Adams, Dietrich and Rice",
+    "entityCode": "ADAMS,DI0194",
+    "estDate": "2011-07-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8852e00c8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Carroll Inc",
+    "entityCode": "CARROLLI0196",
+    "estDate": "2012-08-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea887a300c9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nolan, Lubowitz and Emmerich",
+    "entityCode": "NOLAN,LU0198",
+    "estDate": "2010-11-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea88a0400ca"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stamm and Sons",
+    "entityCode": "STAMMAND0201",
+    "estDate": "2012-06-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ea88c0200c8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Adams Group",
+    "entityCode": "ADAMSGRO0202",
+    "estDate": "2006-03-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea88e5a00cb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Howe, Macejkovic and Upton",
+    "entityCode": "HOWE,MAC0205",
+    "estDate": "2008-01-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea890d400cc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Funk - Ziemann",
+    "entityCode": "FUNK-ZIE0207",
+    "estDate": "2013-08-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea8932400cd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jacobi Group",
+    "entityCode": "JACOBIGR0209",
+    "estDate": "2010-11-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ea8952900cd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Olson LLC",
+    "entityCode": "OLSONLLC0211",
+    "estDate": "2007-07-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea8975300cf"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hansen, Leannon and Mayer",
+    "entityCode": "HANSEN,L0213",
+    "estDate": "2011-09-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ea8996500d0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lesch - Torphy",
+    "entityCode": "LESCH-TO0215",
+    "estDate": "2005-07-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea89b5000d2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nicolas - Ernser",
+    "entityCode": "NICOLAS-0217",
+    "estDate": "2010-11-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea89d3b00d4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Koss - Kirlin",
+    "entityCode": "KOSS-KIR0219",
+    "estDate": "2013-09-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea89f1a00d5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Volkman LLC",
+    "entityCode": "VOLKMANL0221",
+    "estDate": "2007-02-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea8a0f800d1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lind, Reichel and Donnelly",
+    "entityCode": "LIND,REI0223",
+    "estDate": "2007-07-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ea8a2f800d6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stoltenberg, Romaguera and Mills",
+    "entityCode": "STOLTENB0224",
+    "estDate": "2010-08-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8a57000d4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walker - Abernathy",
+    "entityCode": "WALKER-A0226",
+    "estDate": "2006-08-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea8a82000d8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gislason LLC",
+    "entityCode": "GISLASON0227",
+    "estDate": "2006-02-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea8aad700d6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ondricka, Douglas and Schneider",
+    "entityCode": "ONDRICKA0229",
+    "estDate": "2010-09-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea8ad2000d8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wilderman, O'Keefe and Marvin",
+    "entityCode": "WILDERMA0231",
+    "estDate": "2013-11-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea8afaa00d9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Muller - McClure",
+    "entityCode": "MULLER-M0233",
+    "estDate": "2006-08-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8b23100da"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nienow - Schulist",
+    "entityCode": "NIENOW-S0235",
+    "estDate": "2006-01-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ea8b49700db"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bergstrom - Runte",
+    "entityCode": "BERGSTRO0237",
+    "estDate": "2013-02-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea8b6e500dd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez and Sons",
+    "entityCode": "RODRIGUE0239",
+    "estDate": "2009-04-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ea8b8ed00dc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "King - Wisoky",
+    "entityCode": "KING-WIS0241",
+    "estDate": "2006-01-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea8bae800de"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Zulauf, Langosh and Gleichner",
+    "entityCode": "ZULAUF,L0243",
+    "estDate": "2005-08-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea8bd3100e0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Runte - Franecki",
+    "entityCode": "RUNTE-FR0245",
+    "estDate": "2006-06-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8bf7000e2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pacocha - O'Keefe",
+    "entityCode": "PACOCHA-0247",
+    "estDate": "2008-12-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea8c14900e0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lueilwitz, Kemmer and Marvin",
+    "entityCode": "LUEILWIT0249",
+    "estDate": "2014-11-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8c3a700e4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ernser Group",
+    "entityCode": "ERNSERGR0252",
+    "estDate": "2011-07-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea8c5bf00e2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Olson LLC",
+    "entityCode": "OLSONLLC0254",
+    "estDate": "2013-06-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea8c84f00e6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Champlin - Jacobs",
+    "entityCode": "CHAMPLIN0256",
+    "estDate": "2010-10-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea8c9e200e4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Smith and Sons",
+    "entityCode": "SMITHAND0257",
+    "estDate": "2012-08-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8cc4500e8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waelchi, Swaniawski and Daugherty",
+    "entityCode": "WAELCHI,0260",
+    "estDate": "2010-07-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea8ce3100ea"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kiehn Group",
+    "entityCode": "KIEHNGRO0262",
+    "estDate": "2011-03-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8d07700eb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Aufderhar - Turner",
+    "entityCode": "AUFDERHA0264",
+    "estDate": "2011-10-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea8d2ae00ec"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Fahey LLC",
+    "entityCode": "FAHEYLLC0266",
+    "estDate": "2013-07-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea8d4fd00ed"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Carter, Jakubowski and Leannon",
+    "entityCode": "CARTER,J0268",
+    "estDate": "2014-10-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ea8d6ef00ea"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ullrich, Thiel and Williamson",
+    "entityCode": "ULLRICH,0270",
+    "estDate": "2007-11-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ea8d8ea00ec"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lueilwitz - Beatty",
+    "entityCode": "LUEILWIT0272",
+    "estDate": "2007-03-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea8db1b00ef"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Frami - Kessler",
+    "entityCode": "FRAMI-KE0275",
+    "estDate": "2006-04-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea8dd5f00f1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dietrich - Kassulke",
+    "entityCode": "DIETRICH0278",
+    "estDate": "2010-04-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8df9d00f4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Labadie LLC",
+    "entityCode": "LABADIEL0281",
+    "estDate": "2005-04-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8e1e100f6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Parker, Little and Rippin",
+    "entityCode": "PARKER,L0284",
+    "estDate": "2011-03-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea8e41000f9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kautzer, Flatley and Harvey",
+    "entityCode": "KAUTZER,0287",
+    "estDate": "2014-02-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea8e5fe00f0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Altenwerth Group",
+    "entityCode": "ALTENWER0290",
+    "estDate": "2008-11-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea8e80900f3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bechtelar Inc",
+    "entityCode": "BECHTELA0293",
+    "estDate": "2007-10-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8ea5500fd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wehner - Brakus",
+    "entityCode": "WEHNER-B0296",
+    "estDate": "2005-11-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8ecc60100"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wunsch - Adams",
+    "entityCode": "WUNSCH-A0299",
+    "estDate": "2007-05-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea8ef300102"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Goyette - Wilkinson",
+    "entityCode": "GOYETTE-0302",
+    "estDate": "2008-03-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ea8f0ca00f7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mertz - Wolf",
+    "entityCode": "MERTZ-WO0305",
+    "estDate": "2013-05-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea8f2ed00f9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kutch, Fritsch and Thiel",
+    "entityCode": "KUTCH,FR0308",
+    "estDate": "2009-08-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea8f55b0106"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Denesik - Rosenbaum",
+    "entityCode": "DENESIK-0311",
+    "estDate": "2012-03-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ea8f6e600fc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Roob, Keeling and Auer",
+    "entityCode": "ROOB,KEE0313",
+    "estDate": "2011-11-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea8f90200fe"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Friesen - Leuschke",
+    "entityCode": "FRIESEN-0002",
+    "estDate": "2009-03-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea8fb3b0109"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rogahn, Corkery and Cruickshank",
+    "entityCode": "ROGAHN,C0006",
+    "estDate": "2014-10-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea8fd9b010a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waters, McClure and Emard",
+    "entityCode": "WATERS,M0009",
+    "estDate": "2005-03-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ea8ff900103"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Considine, Predovic and Donnelly",
+    "entityCode": "CONSIDIN0011",
+    "estDate": "2005-03-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea901610104"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez, Kshlerin and Jacobi",
+    "entityCode": "RODRIGUE0014",
+    "estDate": "2009-12-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea9036b0106"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Greenholt Group",
+    "entityCode": "GREENHOL0017",
+    "estDate": "2006-06-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea905b40110"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "McGlynn - Medhurst",
+    "entityCode": "MCGLYNN-0020",
+    "estDate": "2012-06-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea9083c0113"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schaden LLC",
+    "entityCode": "SCHADENL0001",
+    "estDate": "2012-05-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea90a8e010b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Zulauf and Sons",
+    "entityCode": "ZULAUFAN0003",
+    "estDate": "2008-06-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea90c7e0116"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stark LLC",
+    "entityCode": "STARKLLC0006",
+    "estDate": "2014-11-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ea90e82010c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Friesen, Bins and Turner",
+    "entityCode": "FRIESEN,0008",
+    "estDate": "2014-08-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ea91093010e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stanton - Abshire",
+    "entityCode": "STANTON-0002",
+    "estDate": "2013-04-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea912ef011a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feest and Sons",
+    "entityCode": "FEESTAND0005",
+    "estDate": "2010-05-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ea914df0112"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nienow - Bashirian",
+    "entityCode": "NIENOW-B0008",
+    "estDate": "2009-11-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ea91748011d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Barrows, Beahan and Parisian",
+    "entityCode": "BARROWS,0001",
+    "estDate": "2013-08-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea91974011f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schoen - West",
+    "entityCode": "SCHOEN-W0005",
+    "estDate": "2013-05-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea91bed0121"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bahringer LLC",
+    "entityCode": "BAHRINGE0008",
+    "estDate": "2014-07-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea91dca0117"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Koch - Gottlieb",
+    "entityCode": "KOCH-GOT0011",
+    "estDate": "2014-08-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ea9201e0124"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Koch - Mills",
+    "entityCode": "KOCH-MIL0001",
+    "estDate": "2009-12-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ea92224011b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bernier Inc",
+    "entityCode": "BERNIERI0004",
+    "estDate": "2014-06-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ea9244b0127"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reilly Group",
+    "entityCode": "REILLYGR0007",
+    "estDate": "2007-07-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea92661011f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Connell and Sons",
+    "entityCode": "O'CONNEL0010",
+    "estDate": "2006-10-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea928890129"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hoppe - Stamm",
+    "entityCode": "HOPPE-ST0013",
+    "estDate": "2013-01-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea92ad3012b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Carter Group",
+    "entityCode": "CARTERGR0016",
+    "estDate": "2005-06-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea92d22012d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Padberg - Cummings",
+    "entityCode": "PADBERG-0019",
+    "estDate": "2006-04-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea92f350125"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Langworth, Weissnat and Schneider",
+    "entityCode": "LANGWORT0022",
+    "estDate": "2007-10-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ea9318b012f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bayer, Blick and Haag",
+    "entityCode": "BAYER,BL0025",
+    "estDate": "2012-09-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ea9338d0132"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walker - Sporer",
+    "entityCode": "WALKER-S0000",
+    "estDate": "2014-10-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ea935820133"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kohler - Moore",
+    "entityCode": "KOHLER-M0003",
+    "estDate": "2014-04-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea9378f012a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reinger, Leuschke and Krajcik",
+    "entityCode": "REINGER,0005",
+    "estDate": "2009-11-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ea93a1f0137"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Emmerich, Doyle and Ferry",
+    "entityCode": "EMMERICH0009",
+    "estDate": "2010-11-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ea93c25012e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sipes - Corkery",
+    "entityCode": "SIPES-CO0012",
+    "estDate": "2006-07-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ea93e240130"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Little, Leannon and Dicki",
+    "entityCode": "LITTLE,L1065",
+    "estDate": "2013-07-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed619a203d3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hauck and Sons",
+    "entityCode": "HAUCKAND1066",
+    "estDate": "2008-08-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed61ba103d4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Baumbach and Sons",
+    "entityCode": "BAUMBACH1067",
+    "estDate": "2013-05-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed61dc903e2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reilly, O'Hara and Bergstrom",
+    "entityCode": "REILLY,O1068",
+    "estDate": "2011-07-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed6200a03e3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mohr, Dare and Schumm",
+    "entityCode": "MOHR,DAR1069",
+    "estDate": "2010-07-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ed621fb03d5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gorczany Group",
+    "entityCode": "GORCZANY1070",
+    "estDate": "2006-01-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed623f503d6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Spencer Inc",
+    "entityCode": "SPENCERI1071",
+    "estDate": "2013-06-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6261403e4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Johnston - MacGyver",
+    "entityCode": "JOHNSTON1072",
+    "estDate": "2014-09-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed628c203e5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ondricka, Gutmann and Leannon",
+    "entityCode": "ONDRICKA1073",
+    "estDate": "2008-12-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed62acb03d7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Hara, Gutkowski and Towne",
+    "entityCode": "O'HARA,G1074",
+    "estDate": "2010-01-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed62cb903d8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hayes Inc",
+    "entityCode": "HAYESINC1075",
+    "estDate": "2008-07-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed62eda03e6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Paucek - Walsh",
+    "entityCode": "PAUCEK-W1076",
+    "estDate": "2014-06-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed6313e03d9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Murray and Sons",
+    "entityCode": "MURRAYAN1077",
+    "estDate": "2013-02-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6334303da"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Casper - Hills",
+    "entityCode": "CASPER-H1078",
+    "estDate": "2005-08-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6356503e7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Emard - Friesen",
+    "entityCode": "EMARD-FR1079",
+    "estDate": "2006-04-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ed6377f03db"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Welch - Schmeler",
+    "entityCode": "WELCH-SC1080",
+    "estDate": "2010-10-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6397903dc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gusikowski - Padberg",
+    "entityCode": "GUSIKOWS1081",
+    "estDate": "2011-12-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed63ba703e8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mueller - Boyer",
+    "entityCode": "MUELLER-1082",
+    "estDate": "2007-11-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed63e4b03e9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beatty - Murray",
+    "entityCode": "BEATTY-M1083",
+    "estDate": "2013-06-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6404c03dd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mante Inc",
+    "entityCode": "MANTEINC1084",
+    "estDate": "2012-02-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed6423003de"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hammes Inc",
+    "entityCode": "HAMMESIN1085",
+    "estDate": "2010-02-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6445403ea"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Olson LLC",
+    "entityCode": "OLSONLLC1086",
+    "estDate": "2011-02-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed646b803df"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Smitham - Ruecker",
+    "entityCode": "SMITHAM-1087",
+    "estDate": "2005-02-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed648b203e0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Greenholt - Ritchie",
+    "entityCode": "GREENHOL1088",
+    "estDate": "2005-11-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed64a9703e1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jenkins, Kub and Jerde",
+    "entityCode": "JENKINS,1089",
+    "estDate": "2012-08-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed64cc003eb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Von - Kutch",
+    "entityCode": "VON-KUTC1090",
+    "estDate": "2012-11-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ed64f1803ec"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rosenbaum - Hyatt",
+    "entityCode": "ROSENBAU1091",
+    "estDate": "2012-09-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ed6514a03e2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Considine, Nitzsche and Kreiger",
+    "entityCode": "CONSIDIN1092",
+    "estDate": "2010-08-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6538403ed"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Witting, Padberg and Wisozk",
+    "entityCode": "WITTING,1093",
+    "estDate": "2013-01-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed6559403e3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hammes - King",
+    "entityCode": "HAMMES-K1094",
+    "estDate": "2008-11-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed657d403ee"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schuster - Carroll",
+    "entityCode": "SCHUSTER1095",
+    "estDate": "2008-04-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed659e303e4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Crooks, Goldner and Carroll",
+    "entityCode": "CROOKS,G1096",
+    "estDate": "2009-02-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed65bcf03e5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Balistreri, Schmitt and Kling",
+    "entityCode": "BALISTRE1097",
+    "estDate": "2009-08-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed65def03e6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gleichner Group",
+    "entityCode": "GLEICHNE1098",
+    "estDate": "2013-12-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed65fdf03e7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feeney, Quigley and Funk",
+    "entityCode": "FEENEY,Q1099",
+    "estDate": "2012-08-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed6620c03ef"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Spinka - Thompson",
+    "entityCode": "SPINKA-T1100",
+    "estDate": "2005-09-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed6647103e8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Romaguera, Wyman and Kihn",
+    "entityCode": "ROMAGUER1101",
+    "estDate": "2008-02-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed6667603e9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Barrows and Sons",
+    "entityCode": "BARROWSA1102",
+    "estDate": "2010-01-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed6686003ea"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mann Group",
+    "entityCode": "MANNGROU1103",
+    "estDate": "2006-02-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed66a8f03f0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Will, Beahan and Corwin",
+    "entityCode": "WILL,BEA1104",
+    "estDate": "2014-07-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed66d2c03f1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feest Group",
+    "entityCode": "FEESTGRO1105",
+    "estDate": "2010-05-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed66f6d03f2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Harris - Hahn",
+    "entityCode": "HARRIS-H1106",
+    "estDate": "2013-07-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed671eb03f3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Hara Inc",
+    "entityCode": "O'HARAIN1107",
+    "estDate": "2010-01-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6741203eb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gibson - Kohler",
+    "entityCode": "GIBSON-K1108",
+    "estDate": "2011-08-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6764803f4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Champlin Group",
+    "entityCode": "CHAMPLIN1109",
+    "estDate": "2010-03-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed6789a03f5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bradtke, Mills and Mohr",
+    "entityCode": "BRADTKE,1110",
+    "estDate": "2009-08-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed67b2f03f6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Brown, Boehm and Weimann",
+    "entityCode": "BROWN,BO1111",
+    "estDate": "2013-06-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed67d7503f7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dietrich, O'Reilly and Leuschke",
+    "entityCode": "DIETRICH1112",
+    "estDate": "2009-08-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed67f7203ec"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kovacek and Sons",
+    "entityCode": "KOVACEKA1113",
+    "estDate": "2005-09-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6816e03ed"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ruecker - Bins",
+    "entityCode": "RUECKER-1114",
+    "estDate": "2005-03-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed6838703f8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Turcotte Group",
+    "entityCode": "TURCOTTE1115",
+    "estDate": "2007-12-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed685d103f9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hodkiewicz Group",
+    "entityCode": "HODKIEWI1116",
+    "estDate": "2008-09-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6881a03ee"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kreiger - Hintz",
+    "entityCode": "KREIGER-1117",
+    "estDate": "2007-05-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ed68a1803ef"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nader, Prosacco and Schumm",
+    "entityCode": "NADER,PR1118",
+    "estDate": "2009-02-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed68c3f03fa"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bailey Inc",
+    "entityCode": "BAILEYIN1119",
+    "estDate": "2005-07-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed68e9c03fb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Oberbrunner, Powlowski and Schuppe",
+    "entityCode": "OBERBRUN1120",
+    "estDate": "2009-08-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed690f903fc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Streich - O'Kon",
+    "entityCode": "STREICH-1121",
+    "estDate": "2006-09-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ed6934103f0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mayert - Keebler",
+    "entityCode": "MAYERT-K1122",
+    "estDate": "2011-01-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed6952c03f1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Connelly, Kling and Farrell",
+    "entityCode": "CONNELLY1123",
+    "estDate": "2008-11-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6972603f2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Maggio, Heller and Wolff",
+    "entityCode": "MAGGIO,H1124",
+    "estDate": "2007-02-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6995703fd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ernser - Gottlieb",
+    "entityCode": "ERNSER-G1125",
+    "estDate": "2014-02-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed69b6403f3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hane, Barton and Franecki",
+    "entityCode": "HANE,BAR1126",
+    "estDate": "2007-11-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed69d8903fe"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mosciski, Nader and Kub",
+    "entityCode": "MOSCISKI1127",
+    "estDate": "2012-12-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed69fbc03ff"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ruecker Group",
+    "entityCode": "RUECKERG1128",
+    "estDate": "2007-11-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed6a2060400"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Kon - Fadel",
+    "entityCode": "O'KON-FA1129",
+    "estDate": "2008-10-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6a49d0401"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schinner and Sons",
+    "entityCode": "SCHINNER1130",
+    "estDate": "2009-08-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6a71c0402"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walter, Nikolaus and Borer",
+    "entityCode": "WALTER,N1131",
+    "estDate": "2014-02-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ed6a95503f4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Torphy, Dickinson and Spencer",
+    "entityCode": "TORPHY,D1132",
+    "estDate": "2010-04-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6ab810403"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bogan - Klocko",
+    "entityCode": "BOGAN-KL1133",
+    "estDate": "2005-09-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ed6ad9c03f5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Haley and Sons",
+    "entityCode": "HALEYAND1134",
+    "estDate": "2014-11-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed6afc50404"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bartell Group",
+    "entityCode": "BARTELLG1135",
+    "estDate": "2012-02-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6b21603f6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Yundt, Kulas and Kautzer",
+    "entityCode": "YUNDT,KU1136",
+    "estDate": "2008-04-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ed6b40603f7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nolan, Johns and Goyette",
+    "entityCode": "NOLAN,JO1137",
+    "estDate": "2009-06-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6b62e0405"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schroeder Inc",
+    "entityCode": "SCHROEDE1138",
+    "estDate": "2009-05-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6b8b40406"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Adams - Shanahan",
+    "entityCode": "ADAMS-SH1139",
+    "estDate": "2008-09-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ed6bae903f8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bauch - Parisian",
+    "entityCode": "BAUCH-PA1140",
+    "estDate": "2014-11-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ed6bd110407"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mayert Inc",
+    "entityCode": "MAYERTIN1141",
+    "estDate": "2006-09-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed6bf4b03f9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "McDermott - Hane",
+    "entityCode": "MCDERMOT1142",
+    "estDate": "2013-06-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6c1770408"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reichert and Sons",
+    "entityCode": "REICHERT1143",
+    "estDate": "2009-01-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6c38203fa"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Blanda, Pfeffer and Langosh",
+    "entityCode": "BLANDA,P1144",
+    "estDate": "2010-09-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ed6c5b70409"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gleichner, VonRueden and Wisozk",
+    "entityCode": "GLEICHNE1145",
+    "estDate": "2010-02-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6c837040a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Treutel, Quigley and Feil",
+    "entityCode": "TREUTEL,1146",
+    "estDate": "2014-03-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed6ca3b03fb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schulist Inc",
+    "entityCode": "SCHULIST1147",
+    "estDate": "2007-09-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6cc6c040b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuvalis - Rau",
+    "entityCode": "KUVALIS-1148",
+    "estDate": "2010-01-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed6ce9c040c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Boyer - Kling",
+    "entityCode": "BOYER-KL1149",
+    "estDate": "2006-08-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6d103040d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Weissnat LLC",
+    "entityCode": "WEISSNAT1150",
+    "estDate": "2014-09-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ed6d34903fc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Cruickshank LLC",
+    "entityCode": "CRUICKSH1151",
+    "estDate": "2010-07-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6d54d03fd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Larkin, Herzog and Stroman",
+    "entityCode": "LARKIN,H1152",
+    "estDate": "2011-01-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ed6d73703fe"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Moen Group",
+    "entityCode": "MOENGROU1153",
+    "estDate": "2014-06-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ed6d956040e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kovacek - Hodkiewicz",
+    "entityCode": "KOVACEK-1154",
+    "estDate": "2009-07-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6dbed040f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "DuBuque - Anderson",
+    "entityCode": "DUBUQUE-1155",
+    "estDate": "2007-07-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed6de150410"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schimmel Group",
+    "entityCode": "SCHIMMEL1156",
+    "estDate": "2009-02-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ed6e0660411"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Romaguera - Stark",
+    "entityCode": "ROMAGUER1157",
+    "estDate": "2005-05-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ed6e3040412"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuhn, Lind and Dietrich",
+    "entityCode": "KUHN,LIN1158",
+    "estDate": "2009-01-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ed6e55603ff"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bosco - Walker",
+    "entityCode": "BOSCO-WA1159",
+    "estDate": "2009-12-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ed6e7830413"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kilback, Stanton and Fay",
+    "entityCode": "KILBACK,1160",
+    "estDate": "2010-05-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6e9de0414"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pagac, Abshire and Bergnaum",
+    "entityCode": "PAGAC,AB1161",
+    "estDate": "2007-11-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ed6ec0c0400"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Legros - Gutmann",
+    "entityCode": "LEGROS-G1162",
+    "estDate": "2014-07-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ed6edfb0401"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mann - Powlowski",
+    "entityCode": "MANN-POW1163",
+    "estDate": "2010-04-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ed6f0320415"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez Inc",
+    "entityCode": "RODRIGUE1164",
+    "estDate": "2007-09-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ed6f2b20416"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dickens, Ruecker and Bartoletti",
+    "entityCode": "DICKENS,1665",
+    "estDate": "2009-06-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ede9ead05aa"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Conner, Braun and Casper",
+    "entityCode": "O'CONNER1666",
+    "estDate": "2005-10-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726edea11a05ab"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reynolds - Boyle",
+    "entityCode": "REYNOLDS1667",
+    "estDate": "2012-04-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edea321058f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schaden Group",
+    "entityCode": "SCHADENG1668",
+    "estDate": "2012-12-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edea54605ac"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reichert, Marvin and Prosacco",
+    "entityCode": "REICHERT1669",
+    "estDate": "2012-02-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726edea7b70590"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Trantow Group",
+    "entityCode": "TRANTOWG1670",
+    "estDate": "2012-06-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edea9a00591"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Streich - Runolfsson",
+    "entityCode": "STREICH-1671",
+    "estDate": "2009-02-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726edeaba90592"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Legros - Cummerata",
+    "entityCode": "LEGROS-C1672",
+    "estDate": "2006-09-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726edeadca05ad"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Leuschke - Weissnat",
+    "entityCode": "LEUSCHKE1673",
+    "estDate": "2010-07-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726edeb02e0593"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Osinski - Halvorson",
+    "entityCode": "OSINSKI-1674",
+    "estDate": "2008-06-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edeb2410594"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Becker and Sons",
+    "entityCode": "BECKERAN1675",
+    "estDate": "2010-09-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edeb4490595"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lueilwitz LLC",
+    "entityCode": "LUEILWIT1676",
+    "estDate": "2010-12-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726edeb6420596"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Runolfsdottir, Emmerich and Schowalter",
+    "entityCode": "RUNOLFSD1677",
+    "estDate": "2014-03-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edeb8560597"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bailey Inc",
+    "entityCode": "BAILEYIN1678",
+    "estDate": "2011-10-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edebabd05ae"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Johnston - Heidenreich",
+    "entityCode": "JOHNSTON1679",
+    "estDate": "2014-12-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edebd0f05af"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Moen, Walter and Wyman",
+    "entityCode": "MOEN,WAL1680",
+    "estDate": "2008-06-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edebf9305b0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Witting, Mohr and Turner",
+    "entityCode": "WITTING,1681",
+    "estDate": "2014-04-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edec1dd05b1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sanford - Halvorson",
+    "entityCode": "SANFORD-1682",
+    "estDate": "2008-11-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726edec45c05b2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Smith - Reinger",
+    "entityCode": "SMITH-RE1683",
+    "estDate": "2009-02-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edec6870598"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nikolaus - Hayes",
+    "entityCode": "NIKOLAUS1684",
+    "estDate": "2014-12-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edec8770599"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lesch, Dach and Heaney",
+    "entityCode": "LESCH,DA1685",
+    "estDate": "2013-10-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edeca9505b3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "D'Amore, Effertz and O'Conner",
+    "entityCode": "D'AMORE,1686",
+    "estDate": "2012-04-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edeccba059a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lesch, Konopelski and Padberg",
+    "entityCode": "LESCH,KO1687",
+    "estDate": "2009-11-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edecedb059b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Marvin - Lakin",
+    "entityCode": "MARVIN-L1688",
+    "estDate": "2012-08-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726eded10905b4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "King - Kuvalis",
+    "entityCode": "KING-KUV1689",
+    "estDate": "2006-10-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726eded353059c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Medhurst, Lind and Kutch",
+    "entityCode": "MEDHURST1690",
+    "estDate": "2009-12-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726eded559059d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nikolaus - Dickinson",
+    "entityCode": "NIKOLAUS1691",
+    "estDate": "2013-06-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726eded79c05b5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beer Group",
+    "entityCode": "BEERGROU1692",
+    "estDate": "2008-10-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726eded9ed05b6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Heathcote, Zieme and Luettgen",
+    "entityCode": "HEATHCOT1693",
+    "estDate": "2009-08-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ededc2605b7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ledner Inc",
+    "entityCode": "LEDNERIN1694",
+    "estDate": "2009-08-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edede51059e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Powlowski - Ruecker",
+    "entityCode": "POWLOWSK1695",
+    "estDate": "2012-09-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edee08a05b8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kris and Sons",
+    "entityCode": "KRISANDS1696",
+    "estDate": "2010-07-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edee3af059f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nader, Hermann and Stehr",
+    "entityCode": "NADER,HE1697",
+    "estDate": "2007-08-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edee5d405a0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Howell - Kautzer",
+    "entityCode": "HOWELL-K1698",
+    "estDate": "2010-07-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edee7fe05b9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Davis and Sons",
+    "entityCode": "DAVISAND1699",
+    "estDate": "2012-02-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edeea2705a1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lehner, Jacobi and Lockman",
+    "entityCode": "LEHNER,J1700",
+    "estDate": "2011-09-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edeec5205ba"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Terry, Nikolaus and Klocko",
+    "entityCode": "TERRY,NI1701",
+    "estDate": "2006-03-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726edeee9b05bb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hane - Shields",
+    "entityCode": "HANE-SHI1702",
+    "estDate": "2010-10-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726edef11e05bc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nitzsche - Kris",
+    "entityCode": "NITZSCHE1703",
+    "estDate": "2011-08-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726edef38505bd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Treutel - Klein",
+    "entityCode": "TREUTEL-1704",
+    "estDate": "2008-05-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726edef5fc05be"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bosco - Howell",
+    "entityCode": "BOSCO-HO1705",
+    "estDate": "2012-08-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edef84a05bf"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dooley - Williamson",
+    "entityCode": "DOOLEY-W1706",
+    "estDate": "2010-12-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edefa7605a2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feeney, Goldner and Nicolas",
+    "entityCode": "FEENEY,G1707",
+    "estDate": "2006-05-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edefcbe05c0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nienow Inc",
+    "entityCode": "NIENOWIN1708",
+    "estDate": "2009-07-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edeff2605c1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Eichmann - Moore",
+    "entityCode": "EICHMANN1709",
+    "estDate": "2007-01-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf015905a3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Glover, McDermott and Hamill",
+    "entityCode": "GLOVER,M1710",
+    "estDate": "2008-11-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf034705a4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hane, Leffler and Conroy",
+    "entityCode": "HANE,LEF1711",
+    "estDate": "2007-09-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edf055b05a5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reynolds - Quigley",
+    "entityCode": "REYNOLDS1712",
+    "estDate": "2009-07-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf078005c2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Boehm - Hackett",
+    "entityCode": "BOEHM-HA1713",
+    "estDate": "2005-10-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edf09b505c3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Quigley, Spinka and Cummerata",
+    "entityCode": "QUIGLEY,1714",
+    "estDate": "2006-12-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edf0bca05a6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waelchi, Leannon and Brekke",
+    "entityCode": "WAELCHI,1715",
+    "estDate": "2005-04-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf0df605c4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nolan, Farrell and Steuber",
+    "entityCode": "NOLAN,FA1716",
+    "estDate": "2011-11-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726edf102c05a7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kutch - Kautzer",
+    "entityCode": "KUTCH-KA1717",
+    "estDate": "2007-05-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf125e05c5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feest Inc",
+    "entityCode": "FEESTINC1718",
+    "estDate": "2008-09-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf14a705c6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sipes, D'Amore and DuBuque",
+    "entityCode": "SIPES,D'1719",
+    "estDate": "2014-04-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf170105a8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jakubowski and Sons",
+    "entityCode": "JAKUBOWS1720",
+    "estDate": "2012-12-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edf193305c7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez, Mante and Wyman",
+    "entityCode": "RODRIGUE1721",
+    "estDate": "2006-04-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726edf1b5205a9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Romaguera LLC",
+    "entityCode": "ROMAGUER1722",
+    "estDate": "2012-12-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf1d7f05c8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rutherford and Sons",
+    "entityCode": "RUTHERFO1723",
+    "estDate": "2010-02-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edf1fbe05aa"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pouros - Stroman",
+    "entityCode": "POUROS-S1724",
+    "estDate": "2009-08-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726edf21ee05c9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Swift, Marvin and Rice",
+    "entityCode": "SWIFT,MA1725",
+    "estDate": "2011-06-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf242805ca"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hoeger - Wisoky",
+    "entityCode": "HOEGER-W1726",
+    "estDate": "2014-02-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edf263805ab"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schmitt Inc",
+    "entityCode": "SCHMITTI1727",
+    "estDate": "2014-11-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edf285205ac"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jacobs, Wiza and Becker",
+    "entityCode": "JACOBS,W1728",
+    "estDate": "2005-12-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726edf2a3e05ad"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hegmann, Beatty and Johnson",
+    "entityCode": "HEGMANN,1729",
+    "estDate": "2006-06-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf2c3e05ae"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gaylord and Sons",
+    "entityCode": "GAYLORDA1730",
+    "estDate": "2006-01-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edf2e2e05af"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hoeger - Koepp",
+    "entityCode": "HOEGER-K1731",
+    "estDate": "2008-07-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf306505cb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beatty, Metz and Leuschke",
+    "entityCode": "BEATTY,M1732",
+    "estDate": "2009-09-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726edf329205b0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bednar - Cormier",
+    "entityCode": "BEDNAR-C1733",
+    "estDate": "2005-01-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf349205b1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Boyer Group",
+    "entityCode": "BOYERGRO1734",
+    "estDate": "2008-12-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edf36be05cc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Klein, Pfeffer and Hermiston",
+    "entityCode": "KLEIN,PF1735",
+    "estDate": "2013-10-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf391c05cd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hessel - Glover",
+    "entityCode": "HESSEL-G1736",
+    "estDate": "2011-04-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726edf3b9805ce"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bailey - Schmitt",
+    "entityCode": "BAILEY-S1737",
+    "estDate": "2010-11-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf3dd705cf"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jenkins - Grady",
+    "entityCode": "JENKINS-1738",
+    "estDate": "2007-11-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726edf405605d0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reichert and Sons",
+    "entityCode": "REICHERT1739",
+    "estDate": "2006-04-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edf42a905d1"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hane Group",
+    "entityCode": "HANEGROU1740",
+    "estDate": "2008-02-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf44d005b2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rempel, Ankunding and O'Conner",
+    "entityCode": "REMPEL,A1741",
+    "estDate": "2006-06-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf470405d2"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nader - Mann",
+    "entityCode": "NADER-MA1742",
+    "estDate": "2008-09-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf494d05d3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Murray - Hammes",
+    "entityCode": "MURRAY-H1743",
+    "estDate": "2014-08-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726edf4bad05b3"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sawayn, Bartell and D'Amore",
+    "entityCode": "SAWAYN,B1744",
+    "estDate": "2008-08-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf4d9005b4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Collier - Jerde",
+    "entityCode": "COLLIER-1745",
+    "estDate": "2014-01-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edf4fa605b5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sauer - Ernser",
+    "entityCode": "SAUER-ER1746",
+    "estDate": "2007-09-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726edf51a605b6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bogisich - Bechtelar",
+    "entityCode": "BOGISICH1747",
+    "estDate": "2008-01-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf53cd05b7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rice, Robel and Brakus",
+    "entityCode": "RICE,ROB1748",
+    "estDate": "2005-11-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf55b505b8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Okuneva LLC",
+    "entityCode": "OKUNEVAL1749",
+    "estDate": "2014-04-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf57e805d4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Emmerich, Abbott and Mante",
+    "entityCode": "EMMERICH1750",
+    "estDate": "2008-03-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf5a3405b9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Eichmann LLC",
+    "entityCode": "EICHMANN1751",
+    "estDate": "2012-09-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf5c5005d5"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Hara - Sporer",
+    "entityCode": "O'HARA-S1752",
+    "estDate": "2014-03-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726edf5ebd05d6"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Homenick - Hane",
+    "entityCode": "HOMENICK1753",
+    "estDate": "2010-06-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf60e705ba"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walker, Daugherty and Hickle",
+    "entityCode": "WALKER,D1754",
+    "estDate": "2008-03-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726edf62eb05bb"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Botsford, O'Connell and Lindgren",
+    "entityCode": "BOTSFORD1755",
+    "estDate": "2008-11-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726edf650d05d7"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nicolas - Davis",
+    "entityCode": "NICOLAS-1756",
+    "estDate": "2005-02-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edf678905d8"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ruecker - Rempel",
+    "entityCode": "RUECKER-1757",
+    "estDate": "2005-01-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726edf69da05d9"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rice LLC",
+    "entityCode": "RICELLC01758",
+    "estDate": "2007-08-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726edf6c2205bc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feest - Fritsch",
+    "entityCode": "FEEST-FR1759",
+    "estDate": "2010-04-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726edf6e4d05da"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Parker and Sons",
+    "entityCode": "PARKERAN1760",
+    "estDate": "2009-04-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf707e05bd"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Senger, Kuphal and Kuhic",
+    "entityCode": "SENGER,K1761",
+    "estDate": "2005-12-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726edf728205be"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schmidt, Marks and Grant",
+    "entityCode": "SCHMIDT,1762",
+    "estDate": "2011-09-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726edf747b05bf"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mante - Dickens",
+    "entityCode": "MANTE-DI1763",
+    "estDate": "2012-07-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726edf76b505db"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Huel - Yost",
+    "entityCode": "HUEL-YOS1764",
+    "estDate": "2006-11-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726edf792c05dc"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beatty LLC",
+    "entityCode": "BEATTYLL2265",
+    "estDate": "2009-07-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee5f1420750"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "McLaughlin, Quigley and Reinger",
+    "entityCode": "MCLAUGHL2266",
+    "estDate": "2013-05-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee5f368076d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bruen Inc",
+    "entityCode": "BRUENINC2267",
+    "estDate": "2013-12-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee5f57d0751"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hills - Mertz",
+    "entityCode": "HILLS-ME2268",
+    "estDate": "2005-11-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ee5f7b1076e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waters, Tromp and Yundt",
+    "entityCode": "WATERS,T2269",
+    "estDate": "2013-11-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee5fa50076f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nitzsche - King",
+    "entityCode": "NITZSCHE2270",
+    "estDate": "2011-09-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee5fc8a0752"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rutherford, Kulas and Thompson",
+    "entityCode": "RUTHERFO2271",
+    "estDate": "2005-05-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee5fe8f0753"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Aufderhar - Krajcik",
+    "entityCode": "AUFDERHA2272",
+    "estDate": "2014-10-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ee600dd0770"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Zboncak and Sons",
+    "entityCode": "ZBONCAKA2273",
+    "estDate": "2012-12-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee6031f0771"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wisoky - Cremin",
+    "entityCode": "WISOKY-C2274",
+    "estDate": "2010-12-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee6057a0754"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "King LLC",
+    "entityCode": "KINGLLC02275",
+    "estDate": "2014-10-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee607d30755"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stroman LLC",
+    "entityCode": "STROMANL2276",
+    "estDate": "2011-07-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee609c00756"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schneider - Hodkiewicz",
+    "entityCode": "SCHNEIDE2277",
+    "estDate": "2008-03-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee60bc80757"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reichert - Deckow",
+    "entityCode": "REICHERT2278",
+    "estDate": "2010-06-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee60e150772"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Von - Auer",
+    "entityCode": "VON-AUER2279",
+    "estDate": "2009-04-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee610510773"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "D'Amore Group",
+    "entityCode": "D'AMOREG2280",
+    "estDate": "2009-01-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee612990774"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hudson, Cummerata and Murray",
+    "entityCode": "HUDSON,C2281",
+    "estDate": "2006-09-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee614f60758"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kling and Sons",
+    "entityCode": "KLINGAND2282",
+    "estDate": "2014-04-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee616e40759"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Crist - Kessler",
+    "entityCode": "CRIST-KE2283",
+    "estDate": "2007-08-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee618db075a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Will and Sons",
+    "entityCode": "WILLANDS2284",
+    "estDate": "2010-01-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee61b170775"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "VonRueden and Sons",
+    "entityCode": "VONRUEDE2285",
+    "estDate": "2010-02-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee61d4c0776"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Waters, Thiel and Emard",
+    "entityCode": "WATERS,T2286",
+    "estDate": "2011-08-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee61f65075b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Auer, Mraz and Moen",
+    "entityCode": "AUER,MRA2287",
+    "estDate": "2009-01-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee6219a0777"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Vandervort, Paucek and Hahn",
+    "entityCode": "VANDERVO2288",
+    "estDate": "2008-08-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee623c1075c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rogahn - Wilderman",
+    "entityCode": "ROGAHN-W2289",
+    "estDate": "2012-01-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ee625e90778"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gaylord LLC",
+    "entityCode": "GAYLORDL2290",
+    "estDate": "2012-12-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee628730779"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pagac - Corwin",
+    "entityCode": "PAGAC-CO2291",
+    "estDate": "2008-07-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee62aa4075d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mann and Sons",
+    "entityCode": "MANNANDS2292",
+    "estDate": "2005-02-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee62cd9077a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Larkin Inc",
+    "entityCode": "LARKININ2293",
+    "estDate": "2013-06-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee62f62075e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Padberg, Bergnaum and Collier",
+    "entityCode": "PADBERG,2294",
+    "estDate": "2005-04-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee63196077b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jacobson LLC",
+    "entityCode": "JACOBSON2295",
+    "estDate": "2006-11-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee633a4075f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nolan Group",
+    "entityCode": "NOLANGRO2296",
+    "estDate": "2011-10-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee635cf077c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Will, Haag and Streich",
+    "entityCode": "WILL,HAA2297",
+    "estDate": "2010-11-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee637e40760"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pfeffer, Reilly and Dickens",
+    "entityCode": "PFEFFER,2298",
+    "estDate": "2010-09-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee63a1b077d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mann LLC",
+    "entityCode": "MANNLLC02299",
+    "estDate": "2010-10-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee63c9c0761"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Balistreri and Sons",
+    "entityCode": "BALISTRE2300",
+    "estDate": "2013-07-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ee63ed2077e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wuckert, Becker and Weimann",
+    "entityCode": "WUCKERT,2301",
+    "estDate": "2009-06-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee64118077f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "D'Amore, Moore and Nicolas",
+    "entityCode": "D'AMORE,2302",
+    "estDate": "2013-02-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee6435d0762"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Crona, Johns and Hegmann",
+    "entityCode": "CRONA,JO2303",
+    "estDate": "2014-03-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee645830780"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Brown, Cormier and Jast",
+    "entityCode": "BROWN,CO2304",
+    "estDate": "2011-09-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee648030781"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Graham - Cassin",
+    "entityCode": "GRAHAM-C2305",
+    "estDate": "2007-08-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee64a200763"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Friesen - Erdman",
+    "entityCode": "FRIESEN-2306",
+    "estDate": "2005-06-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ee64c1b0764"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Kon, Hauck and Stracke",
+    "entityCode": "O'KON,HA2307",
+    "estDate": "2007-06-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee64e590782"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rippin - Dickinson",
+    "entityCode": "RIPPIN-D2308",
+    "estDate": "2008-09-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee650950765"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Corwin Inc",
+    "entityCode": "CORWININ2309",
+    "estDate": "2010-06-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee6529f0766"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wiza and Sons",
+    "entityCode": "WIZAANDS2310",
+    "estDate": "2007-09-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee654c60783"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Zieme - Sawayn",
+    "entityCode": "ZIEME-SA2311",
+    "estDate": "2011-10-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee6571c0784"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Tremblay, Nader and Labadie",
+    "entityCode": "TREMBLAY2312",
+    "estDate": "2012-09-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee6599a0785"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Shields and Sons",
+    "entityCode": "SHIELDSA2313",
+    "estDate": "2011-10-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee65bd90767"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kilback, Hahn and Hills",
+    "entityCode": "KILBACK,2314",
+    "estDate": "2007-11-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee65dcc0768"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Anderson - O'Conner",
+    "entityCode": "ANDERSON2315",
+    "estDate": "2013-07-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee65ff60786"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Shanahan, Bradtke and Leuschke",
+    "entityCode": "SHANAHAN2316",
+    "estDate": "2006-07-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ee6625d0787"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Romaguera - Boyle",
+    "entityCode": "ROMAGUER2317",
+    "estDate": "2011-07-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee664920769"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Toy, Raynor and Halvorson",
+    "entityCode": "TOY,RAYN2318",
+    "estDate": "2010-10-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee66688076a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Daugherty, Kutch and Bogan",
+    "entityCode": "DAUGHERT2319",
+    "estDate": "2006-05-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ee668b00788"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Swift, Krajcik and Gerlach",
+    "entityCode": "SWIFT,KR2320",
+    "estDate": "2011-08-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee66b2d0789"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reinger - Koch",
+    "entityCode": "REINGER-2321",
+    "estDate": "2009-10-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ee66d76078a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mayer - Kessler",
+    "entityCode": "MAYER-KE2322",
+    "estDate": "2013-05-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ee66fc6076b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gulgowski - Kilback",
+    "entityCode": "GULGOWSK2323",
+    "estDate": "2006-10-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee671c6076c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Altenwerth and Sons",
+    "entityCode": "ALTENWER2324",
+    "estDate": "2010-08-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee673ef078b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stoltenberg - Mraz",
+    "entityCode": "STOLTENB2325",
+    "estDate": "2010-06-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee6761a076d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bruen, Schamberger and Koelpin",
+    "entityCode": "BRUEN,SC2326",
+    "estDate": "2005-04-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee6785e078c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Aufderhar - Kuhn",
+    "entityCode": "AUFDERHA2327",
+    "estDate": "2007-11-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee67ab3076e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Erdman LLC",
+    "entityCode": "ERDMANLL2328",
+    "estDate": "2008-05-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ee67cf0078d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Strosin, Brown and Kihn",
+    "entityCode": "STROSIN,2329",
+    "estDate": "2008-08-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee67f60076f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "McKenzie, Deckow and Bogisich",
+    "entityCode": "MCKENZIE2330",
+    "estDate": "2005-12-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee6814d0770"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hintz and Sons",
+    "entityCode": "HINTZAND2331",
+    "estDate": "2008-07-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee68374078e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Barton, Reichel and Jakubowski",
+    "entityCode": "BARTON,R2332",
+    "estDate": "2013-03-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee6860c078f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Labadie Inc",
+    "entityCode": "LABADIEI2333",
+    "estDate": "2014-03-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee688290771"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "McGlynn - Robel",
+    "entityCode": "MCGLYNN-2334",
+    "estDate": "2009-11-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee68a230772"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Balistreri - Lindgren",
+    "entityCode": "BALISTRE2335",
+    "estDate": "2006-01-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ee68c3c0773"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beatty, Donnelly and Abshire",
+    "entityCode": "BEATTY,D2336",
+    "estDate": "2010-07-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ee68e680790"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bartell - Brakus",
+    "entityCode": "BARTELL-2337",
+    "estDate": "2008-01-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee690a40791"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Veum, Lueilwitz and Renner",
+    "entityCode": "VEUM,LUE2338",
+    "estDate": "2008-12-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee692fd0774"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Witting, Schuster and Kassulke",
+    "entityCode": "WITTING,2339",
+    "estDate": "2011-03-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ee695130775"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Daugherty, Marks and Marvin",
+    "entityCode": "DAUGHERT2340",
+    "estDate": "2012-05-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee697590792"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Grant, Jerde and Bechtelar",
+    "entityCode": "GRANT,JE2341",
+    "estDate": "2012-06-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee6996d0776"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hoppe - McKenzie",
+    "entityCode": "HOPPE-MC2342",
+    "estDate": "2007-01-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ee69ba70793"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Reinger Inc",
+    "entityCode": "REINGERI2343",
+    "estDate": "2006-10-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ee69dd70794"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Block, Trantow and Funk",
+    "entityCode": "BLOCK,TR2344",
+    "estDate": "2011-10-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee6a06b0795"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Windler, Keebler and Gulgowski",
+    "entityCode": "WINDLER,2345",
+    "estDate": "2013-09-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee6a2940796"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Goyette, Schowalter and Hand",
+    "entityCode": "GOYETTE,2346",
+    "estDate": "2014-11-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee6a5120777"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Harber Inc",
+    "entityCode": "HARBERIN2347",
+    "estDate": "2006-06-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ee6a7480797"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sanford, Schaefer and Welch",
+    "entityCode": "SANFORD,2348",
+    "estDate": "2012-05-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee6a9c00778"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Carroll, Lakin and Hansen",
+    "entityCode": "CARROLL,2349",
+    "estDate": "2005-10-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ee6abef0798"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Sauer, Barrows and Wilkinson",
+    "entityCode": "SAUER,BA2350",
+    "estDate": "2010-05-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee6ae0e0779"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kshlerin, Hettinger and Brown",
+    "entityCode": "KSHLERIN2351",
+    "estDate": "2014-03-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee6b032077a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Daniel and Sons",
+    "entityCode": "DANIELAN2352",
+    "estDate": "2012-04-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ee6b224077b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wilderman - Beatty",
+    "entityCode": "WILDERMA2353",
+    "estDate": "2009-12-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee6b435077c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Maggio, Schultz and Carter",
+    "entityCode": "MAGGIO,S2354",
+    "estDate": "2005-08-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ee6b625077d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schumm - Stracke",
+    "entityCode": "SCHUMM-S2355",
+    "estDate": "2014-11-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ee6b835077e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Marvin Inc",
+    "entityCode": "MARVININ2356",
+    "estDate": "2008-06-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ee6ba3b077f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ziemann, Ondricka and Renner",
+    "entityCode": "ZIEMANN,2357",
+    "estDate": "2013-08-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee6bc810799"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schumm, Kautzer and Boyle",
+    "entityCode": "SCHUMM,K2358",
+    "estDate": "2014-10-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ee6bf2b079a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Renner, O'Conner and D'Amore",
+    "entityCode": "RENNER,O2359",
+    "estDate": "2013-01-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee6c1720780"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Leffler LLC",
+    "entityCode": "LEFFLERL2360",
+    "estDate": "2006-10-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ee6c3b3079b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kerluke - Torphy",
+    "entityCode": "KERLUKE-2361",
+    "estDate": "2008-10-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ee6c6260781"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stark, Casper and Thiel",
+    "entityCode": "STARK,CA2362",
+    "estDate": "2010-03-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ee6c84a079c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stroman and Sons",
+    "entityCode": "STROMANA2363",
+    "estDate": "2009-08-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ee6cab2079d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Weissnat and Sons",
+    "entityCode": "WEISSNAT2364",
+    "estDate": "2013-01-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ee6cceb0782"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ratke, Lang and White",
+    "entityCode": "RATKE,LA2865",
+    "estDate": "2011-10-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef1b6b50934"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Conroy - Kihn",
+    "entityCode": "CONROY-K2866",
+    "estDate": "2007-06-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef1b8fa090d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lang, Marquardt and Pfeffer",
+    "entityCode": "LANG,MAR2867",
+    "estDate": "2007-05-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef1baf4090e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lemke - Wunsch",
+    "entityCode": "LEMKE-WU2868",
+    "estDate": "2007-05-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef1bd07090f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Pacocha Inc",
+    "entityCode": "PACOCHAI2869",
+    "estDate": "2007-05-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef1bef00910"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kirlin - O'Connell",
+    "entityCode": "KIRLIN-O2870",
+    "estDate": "2005-06-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef1c11b0911"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Huels, Frami and Farrell",
+    "entityCode": "HUELS,FR2871",
+    "estDate": "2006-01-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef1c3480935"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rohan and Sons",
+    "entityCode": "ROHANAND2872",
+    "estDate": "2007-05-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef1c58a0936"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gulgowski LLC",
+    "entityCode": "GULGOWSK2873",
+    "estDate": "2010-10-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef1c7ce0912"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Treutel - Hackett",
+    "entityCode": "TREUTEL-2874",
+    "estDate": "2010-08-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef1c9d40913"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Tillman, Wuckert and Stamm",
+    "entityCode": "TILLMAN,2875",
+    "estDate": "2006-10-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ef1cc050937"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bruen Inc",
+    "entityCode": "BRUENINC2876",
+    "estDate": "2013-08-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef1ce490938"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Fadel Group",
+    "entityCode": "FADELGRO2877",
+    "estDate": "2011-07-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef1d0510914"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nikolaus - Gislason",
+    "entityCode": "NIKOLAUS2878",
+    "estDate": "2006-07-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef1d2550915"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Welch - Simonis",
+    "entityCode": "WELCH-SI2879",
+    "estDate": "2014-06-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef1d4500916"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ondricka, Gibson and MacGyver",
+    "entityCode": "ONDRICKA2880",
+    "estDate": "2006-07-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef1d6810939"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Feeney - Thompson",
+    "entityCode": "FEENEY-T2881",
+    "estDate": "2009-10-21T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ef1d92a093a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Fahey LLC",
+    "entityCode": "FAHEYLLC2882",
+    "estDate": "2013-03-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef1db620917"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Abernathy, Dooley and Corkery",
+    "entityCode": "ABERNATH2883",
+    "estDate": "2006-04-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef1dd91093b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Cole, Skiles and Padberg",
+    "entityCode": "COLE,SKI2884",
+    "estDate": "2006-01-23T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ef1dfc5093c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Spinka, Legros and Fadel",
+    "entityCode": "SPINKA,L2885",
+    "estDate": "2006-02-07T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef1e266093d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jacobi Inc",
+    "entityCode": "JACOBIIN2886",
+    "estDate": "2014-04-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ef1e4af0918"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Wehner - Nicolas",
+    "entityCode": "WEHNER-N2887",
+    "estDate": "2007-01-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef1e708093e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Heaney and Sons",
+    "entityCode": "HEANEYAN2888",
+    "estDate": "2011-10-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef1e96e0919"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Altenwerth, Bergnaum and Quitzon",
+    "entityCode": "ALTENWER2889",
+    "estDate": "2011-12-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef1eb9b093f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Muller, Schmidt and Marks",
+    "entityCode": "MULLER,S2890",
+    "estDate": "2009-10-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef1edd30940"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Macejkovic - Walker",
+    "entityCode": "MACEJKOV2891",
+    "estDate": "2009-07-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef1f03b091a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Labadie Group",
+    "entityCode": "LABADIEG2892",
+    "estDate": "2005-10-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef1f25d0941"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gleason - Jones",
+    "entityCode": "GLEASON-2893",
+    "estDate": "2007-04-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef1f4a50942"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bergnaum - Bailey",
+    "entityCode": "BERGNAUM2894",
+    "estDate": "2009-06-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef1f6fe0943"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walter - Daniel",
+    "entityCode": "WALTER-D2895",
+    "estDate": "2013-05-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef1f903091b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mitchell - Gleason",
+    "entityCode": "MITCHELL2896",
+    "estDate": "2008-10-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ef1fb370944"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Harvey, Keebler and Nicolas",
+    "entityCode": "HARVEY,K2897",
+    "estDate": "2010-01-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef1fd5d091c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Labadie - Barrows",
+    "entityCode": "LABADIE-2898",
+    "estDate": "2013-01-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef1ff8e0945"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Langosh, Thiel and Ledner",
+    "entityCode": "LANGOSH,2899",
+    "estDate": "2012-03-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef201a4091d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bruen - Windler",
+    "entityCode": "BRUEN-WI2900",
+    "estDate": "2012-05-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ef203cf0946"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hilll, Blanda and Lang",
+    "entityCode": "HILLL,BL2901",
+    "estDate": "2010-03-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef206640947"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jaskolski, Hills and Kulas",
+    "entityCode": "JASKOLSK2902",
+    "estDate": "2014-09-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef208cb091e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mann LLC",
+    "entityCode": "MANNLLC02903",
+    "estDate": "2014-09-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef20aed0948"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Windler LLC",
+    "entityCode": "WINDLERL2904",
+    "estDate": "2012-06-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef20cf8091f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stamm - Dicki",
+    "entityCode": "STAMM-DI2905",
+    "estDate": "2007-03-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef20ef90920"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Walker - Sipes",
+    "entityCode": "WALKER-S2906",
+    "estDate": "2006-09-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef211030921"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mayer - Hoeger",
+    "entityCode": "MAYER-HO2907",
+    "estDate": "2006-06-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef212f20922"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Weissnat Group",
+    "entityCode": "WEISSNAT2908",
+    "estDate": "2008-02-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ef2151f0949"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Murazik, Anderson and Miller",
+    "entityCode": "MURAZIK,2909",
+    "estDate": "2008-10-11T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef217540923"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Graham, Flatley and MacGyver",
+    "entityCode": "GRAHAM,F2910",
+    "estDate": "2010-05-04T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef2197e094a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuhlman Inc",
+    "entityCode": "KUHLMANI2911",
+    "estDate": "2013-06-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef21c0c094b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Morar - Bailey",
+    "entityCode": "MORAR-BA2912",
+    "estDate": "2005-11-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef21e3e094c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Howe, Watsica and Ratke",
+    "entityCode": "HOWE,WAT2913",
+    "estDate": "2014-01-22T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef220490924"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Halvorson - Bartell",
+    "entityCode": "HALVORSO2914",
+    "estDate": "2009-05-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef222570925"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Herzog, Purdy and Jaskolski",
+    "entityCode": "HERZOG,P2915",
+    "estDate": "2006-12-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef2243d0926"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Blanda - Hane",
+    "entityCode": "BLANDA-H2916",
+    "estDate": "2010-06-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef226410927"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Upton, Champlin and Witting",
+    "entityCode": "UPTON,CH2917",
+    "estDate": "2012-08-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef2282c0928"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Doyle, Bogan and Lynch",
+    "entityCode": "DOYLE,BO2918",
+    "estDate": "2014-01-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef22a5f094d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kihn Group",
+    "entityCode": "KIHNGROU2919",
+    "estDate": "2010-07-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef22ca2094e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Dickens Inc",
+    "entityCode": "DICKENSI2920",
+    "estDate": "2014-10-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef22f010929"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuhn LLC",
+    "entityCode": "KUHNLLC02921",
+    "estDate": "2012-05-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ef230f3092a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kassulke, Green and Torphy",
+    "entityCode": "KASSULKE2922",
+    "estDate": "2005-08-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef232fa092b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Turcotte, Nikolaus and Witting",
+    "entityCode": "TURCOTTE2923",
+    "estDate": "2006-08-28T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef234ea092c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mills - Kuhic",
+    "entityCode": "MILLS-KU2924",
+    "estDate": "2006-09-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef236ec092d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Batz, Cummings and Ruecker",
+    "entityCode": "BATZ,CUM2925",
+    "estDate": "2005-08-06T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef23922094f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Keefe, VonRueden and Frami",
+    "entityCode": "O'KEEFE,2926",
+    "estDate": "2008-08-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef23b910950"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Herman Group",
+    "entityCode": "HERMANGR2927",
+    "estDate": "2005-05-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef23e040951"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hammes and Sons",
+    "entityCode": "HAMMESAN2928",
+    "estDate": "2011-08-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef240410952"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schmidt, Krajcik and Heathcote",
+    "entityCode": "SCHMIDT,2929",
+    "estDate": "2014-01-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef242ac092e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hagenes Inc",
+    "entityCode": "HAGENESI2930",
+    "estDate": "2009-04-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef244ae092f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Gislason LLC",
+    "entityCode": "GISLASON2931",
+    "estDate": "2012-05-26T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ef246d90953"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Halvorson, Schneider and Stiedemann",
+    "entityCode": "HALVORSO2932",
+    "estDate": "2013-09-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08ae7726e9e0b01726ef248e70930"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Parisian, Kuhlman and Collins",
+    "entityCode": "PARISIAN2933",
+    "estDate": "2013-09-16T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef24ae60931"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lindgren - Romaguera",
+    "entityCode": "LINDGREN2934",
+    "estDate": "2007-05-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef24ced0932"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Adams Group",
+    "entityCode": "ADAMSGRO2935",
+    "estDate": "2009-02-05T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef24ede0933"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Grady and Sons",
+    "entityCode": "GRADYAND2936",
+    "estDate": "2005-12-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef2510d0954"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Friesen - Miller",
+    "entityCode": "FRIESEN-2937",
+    "estDate": "2005-12-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef2535c0955"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "O'Reilly - Brekke",
+    "entityCode": "O'REILLY2938",
+    "estDate": "2006-05-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef255ba0956"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Satterfield Group",
+    "entityCode": "SATTERFI2939",
+    "estDate": "2010-10-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08a1d726e9f1d01726ef258050957"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Lesch - Prohaska",
+    "entityCode": "LESCH-PR2940",
+    "estDate": "2009-08-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ef25a4e0958"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Corwin - Reynolds",
+    "entityCode": "CORWIN-R2941",
+    "estDate": "2005-04-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08ae7726e9e0b01726ef25ca30934"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Bosco Inc",
+    "entityCode": "BOSCOINC2942",
+    "estDate": "2005-05-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef25eaa0935"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Beier Inc",
+    "entityCode": "BEIERINC2943",
+    "estDate": "2010-06-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef260980936"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Fadel - Hahn",
+    "entityCode": "FADEL-HA2944",
+    "estDate": "2012-06-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726ef262a70937"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Mills - Cruickshank",
+    "entityCode": "MILLS-CR2945",
+    "estDate": "2005-08-24T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "PrivateAncillary",
+    "id": "8ad08a1d726e9f1d01726ef264c60959"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ankunding, Rippin and Kihn",
+    "entityCode": "ANKUNDIN2946",
+    "estDate": "2011-02-03T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef26721095a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Leannon, Prohaska and Wolff",
+    "entityCode": "LEANNON,2947",
+    "estDate": "2011-10-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Bare",
+    "id": "8ad08a1d726e9f1d01726ef26964095b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rempel Group",
+    "entityCode": "REMPELGR2948",
+    "estDate": "2005-01-09T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef26bf4095c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Nicolas and Sons",
+    "entityCode": "NICOLASA2949",
+    "estDate": "2011-01-29T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef26e7b095d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Swaniawski - Wisoky",
+    "entityCode": "SWANIAWS2950",
+    "estDate": "2014-02-13T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef270930938"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Hammes and Sons",
+    "entityCode": "HAMMESAN2951",
+    "estDate": "2005-04-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08ae7726e9e0b01726ef272860939"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schaden - Hansen",
+    "entityCode": "SCHADEN-2952",
+    "estDate": "2007-03-08T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef2748b093a"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Stoltenberg, Bashirian and Koelpin",
+    "entityCode": "STOLTENB2953",
+    "estDate": "2010-09-12T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef276b3095e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rolfson, Lindgren and Cruickshank",
+    "entityCode": "ROLFSON,2954",
+    "estDate": "2011-04-27T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08a1d726e9f1d01726ef278e5095f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Cremin Group",
+    "entityCode": "CREMINGR2955",
+    "estDate": "2006-04-02T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef27b63093b"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Ziemann - Dach",
+    "entityCode": "ZIEMANN-2956",
+    "estDate": "2010-06-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08a1d726e9f1d01726ef27d960960"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schneider, Waelchi and Hand",
+    "entityCode": "SCHNEIDE2957",
+    "estDate": "2014-06-30T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef27fa9093c"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuhlman, Greenholt and O'Connell",
+    "entityCode": "KUHLMAN,2958",
+    "estDate": "2006-11-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef281a3093d"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Brekke Group",
+    "entityCode": "BREKKEGR2959",
+    "estDate": "2011-07-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726ef283d10961"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Goyette, Reinger and Gutmann",
+    "entityCode": "GOYETTE,2960",
+    "estDate": "2008-01-14T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726ef285e3093e"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Toy, McGlynn and Langosh",
+    "entityCode": "TOY,MCGL2961",
+    "estDate": "2009-10-10T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef287cf093f"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Botsford, Koss and Pagac",
+    "entityCode": "BOTSFORD2962",
+    "estDate": "2005-09-15T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08ae7726e9e0b01726ef289e80940"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rodriguez - Murphy",
+    "entityCode": "RODRIGUE2963",
+    "estDate": "2007-05-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726ef28bd70941"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Schroeder, Sporer and Hane",
+    "entityCode": "SCHROEDE2964",
+    "estDate": "2014-12-18T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Testamentary",
+    "id": "8ad08a1d726e9f1d01726ef28dfe0962"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "King LLC",
+    "entityCode": "KINGLLC03071",
+    "estDate": "2008-05-17T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726f01786a0986"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Raynor, Stoltenberg and Moen",
+    "entityCode": "RAYNOR,S3072",
+    "estDate": "2009-01-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726f017a790987"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kshlerin and Sons",
+    "entityCode": "KSHLERIN3073",
+    "estDate": "2012-02-01T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Discretionary",
+    "id": "8ad08ae7726e9e0b01726f017c820988"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Runolfsdottir and Sons",
+    "entityCode": "RUNOLFSD3085",
+    "estDate": "2012-12-25T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Unit",
+    "id": "8ad08a1d726e9f1d01726f11151a09a4"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Rohan and Sons",
+    "entityCode": "ROHANAND3086",
+    "estDate": "2006-05-20T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726f11172c0996"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Jacobson - Kub",
+    "entityCode": "JACOBSON3091",
+    "estDate": "2011-01-31T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Business",
+    "id": "8ad08ae7726e9e0b01726f7268bc09a0"
+  },
+  {
+    "entityType": "BillableTrust",
+    "entityName": "Kuhn LLC",
+    "entityCode": "KUHNLLC03092",
+    "estDate": "2007-04-19T00:00:00.000+0000",
+    "financialYearFrom": "2019-07-01T00:00:00.000+0000",
+    "financialYearTo": "2020-06-30T00:00:00.000+0000",
+    "trustType": "Hybrid",
+    "id": "8ad08ae7726e9e0b01726f726a9309a1"
+  }
+]
