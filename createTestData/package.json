@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test1": "mocha --exit ./test/specs/createEntities.spec.js",
-    "test2": "mocha --exit ./test/specs/createEntityRelationships.spec.js"
+    "test2": "mocha --exit ./test/specs/createEntityRelationships.spec.js",
+    "test3": "mocha --exit ./test/specs/deleteEntityRelationships.spec.js"
   },
   "author": "Richard Hor",
   "license": "ISC",

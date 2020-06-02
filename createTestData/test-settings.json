@@ -10,11 +10,34 @@
   },
   "entityRelationships": [
     {
-      "entityToType": "PersonProxy",
-      "entityToId": "8ad08a08726dbe6601726df09d960002",
-      "entityPosition": ["random","random"],
+      "entityToType": "Trust",
+      "entityToId": "8ad08a1d726e9f1d01726ea693430008",
+      "entityPosition": [
+        "random",
+        "random"
+      ],
       "entityFromType": "SMSF",
-      "relationship": 2
+      "relationship": 100
+    },
+    {
+      "entityToType": "Company",
+      "entityToId": "8ad08a08726dbead01726df0b1080009",
+      "entityPosition": [
+        "random",
+        "random"
+      ],
+      "entityFromType": "BillableTrust",
+      "relationship": 100
+    },
+    {
+      "entityToType": "OtherEntity",
+      "entityToId": "8ad08a08726dbead01726df0beb8000e",
+      "entityPosition": [
+        "random",
+        "random"
+      ],
+      "entityFromType": "BillableCompany",
+      "relationship": 100
     }
   ]
 }

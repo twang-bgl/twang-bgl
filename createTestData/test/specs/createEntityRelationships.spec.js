@@ -65,11 +65,6 @@ describe(`add entity relationships in [${context.TestConfig.firm}]`, function ()
 
   });
 
-  // "entityToType": "PersonProxy",
-  // "entityToId": "8ad08a08726dbe6601726df09d960002",
-  // "entityPosition": ["random","random"],
-  // "entityFromType": "SMSF",
-  // "relationship": 100
   let fromEntityArray = [];
   let entityPositionArray = [];
   function getEntityRelationshipsData(x) {
@@ -135,12 +130,12 @@ describe(`add entity relationships in [${context.TestConfig.firm}]`, function ()
   }
 
   it('add entity relationships', async function () {
-    console.log('creating entity relationships ......');
     const RELATIONSHIP_DATA_FILE = './test/data/relationship.json';
     let relationshipIdArray = [];
     if (fs.existsSync(RELATIONSHIP_DATA_FILE)) relationshipIdArray = require('../data/relationship.json');
-    
+
     for (let x = 0; x < entityRelationships.length; x += 1) {
+      console.log(`creating entity relationship${x + 1} ......`);
       getEntityRelationshipsData(x);
       for (let y = 0; y < entityRelationships[x].relationship; y += 1) {
         let payloadArray = createRelationshipPayload(x, y);

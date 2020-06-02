@@ -220,6 +220,13 @@ async function addEntityRelationship(relationship) {
   }
 }
 
+async function deleteEntityRelationship(relationshipId) {
+  let url = `${context.TestConfig.serverURL}/entity/mvc/base/deleteEntityRelationship/${relationshipId}?${getAPIParams()}`
+  response = await axios.post(
+    url);
+  expect(response.status).to.eql(200, `delete entityRelationship`);
+}
+
 
 module.exports = {
   async login(firm) {
@@ -244,5 +251,6 @@ module.exports = {
   addPerson,
   addContact,
   getUniqueEntityCode,
-  addEntityRelationship
+  addEntityRelationship,
+  deleteEntityRelationship
 }
