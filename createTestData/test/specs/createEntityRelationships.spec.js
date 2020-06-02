@@ -50,7 +50,6 @@ const entityPositionCompany = ['Director', 'Shareholder', 'Secretary', 'EX_SMSF_
 
 console.log('Get Test Config Data');
 testUtil.getTestConfigFromLocal();
-
 describe(`add entity relationships in [${context.TestConfig.firm}]`, function () {
   this.bail();
   before(async function () {
@@ -171,7 +170,7 @@ describe(`add entity relationships in [${context.TestConfig.firm}]`, function ()
     return payloadArray;
   }
 
-  it.only('add entity relationships (one to many)', async function () {
+  it('add entity relationships (one to many)', async function () {
     const RELATIONSHIP_DATA_FILE = './test/data/relationship.json';
     let relationshipIdArray = [];
     if (fs.existsSync(RELATIONSHIP_DATA_FILE)) relationshipIdArray = require('../data/relationship.json');

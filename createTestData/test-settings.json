@@ -10,14 +10,14 @@
   },
   "entityRelationshipsOTM": [
     {
-      "entityToType": "Trust",
-      "entityToId": "8ad08a08726dbead01726df0a4c90004",
+      "entityToType": "PersonProxy",
+      "entityToId": "8ad08a08726dbe6601726df09d960002",
       "entityPosition": [
         "random",
         "random"
       ],
-      "entityFromType": "SMSF",
-      "relationship": 2
+      "entityFromType": "BillableTrust",
+      "relationship": 0
     }
   ],
   "entityRelationshipsMTO": [
@@ -28,8 +28,8 @@
         "random"
       ],
       "entityFromType": "Trust",
-      "entityFromId": "8ad08afc726dbe9f01726df0a33b0003",
-      "relationship": 2
+      "entityFromId": "8ad08a1d726e9f1d01726ea693430008",
+      "relationship": 100
     }
   ]
 }
