@@ -8,36 +8,28 @@
     "billableTrust": 2,
     "billableCompany": 2
   },
-  "entityRelationships": [
+  "entityRelationshipsOTM": [
     {
       "entityToType": "Trust",
-      "entityToId": "8ad08a1d726e9f1d01726ea693430008",
+      "entityToId": "8ad08a08726dbead01726df0a4c90004",
       "entityPosition": [
         "random",
         "random"
       ],
       "entityFromType": "SMSF",
-      "relationship": 100
-    },
+      "relationship": 2
+    }
+  ],
+  "entityRelationshipsMTO": [
     {
-      "entityToType": "Company",
-      "entityToId": "8ad08a08726dbead01726df0b1080009",
+      "entityToType": "PersonProxy",
       "entityPosition": [
         "random",
         "random"
       ],
-      "entityFromType": "BillableTrust",
-      "relationship": 100
-    },
-    {
-      "entityToType": "OtherEntity",
-      "entityToId": "8ad08a08726dbead01726df0beb8000e",
-      "entityPosition": [
-        "random",
-        "random"
-      ],
-      "entityFromType": "BillableCompany",
-      "relationship": 100
+      "entityFromType": "Trust",
+      "entityFromId": "8ad08afc726dbe9f01726df0a33b0003",
+      "relationship": 2
     }
   ]
 }

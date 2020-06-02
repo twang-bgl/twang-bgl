@@ -2,7 +2,7 @@ const fs = require('fs');
 const { context } = require('../data/context');
 const testUtil = require('../lib/test-util.js');
 const firmUtil = require('../lib/firm-util.js');
-const { entityRelationships } = context.TestSettings;
+const { entityRelationshipsOTM, entityRelationshipsMTO } = context.TestSettings;
 
 
 const entityPositionSMSF = ['EX_SMSF_Accountant', 'EX_SMSF_Auditor', 'EX_SMSF_Fund_Contact', 'EX_SMSF_Tax_Agent', 'Trustee',
@@ -65,80 +65,151 @@ describe(`add entity relationships in [${context.TestConfig.firm}]`, function ()
 
   });
 
-  let fromEntityArray = [];
+  let entityArray = [];
   let entityPositionArray = [];
-  function getEntityRelationshipsData(x) {
-    switch (entityRelationships[x].entityFromType) {
+  function getEntityArray(entityType) {
+    switch (entityType) {
+      case "PersonProxy":
+        const PERSON_DATA_FILE = './test/data/person.json';
+        if (fs.existsSync(PERSON_DATA_FILE)) entityArray = require('../data/person.json');
+        else throw new Error(`${PERSON_DATA_FILE} not existed!`);
+        break;
+      case "Trust":
+        const TRUST_DATA_FILE = './test/data/trust.json';
+        if (fs.existsSync(TRUST_DATA_FILE)) entityArray = require('../data/trust.json');
+        else throw new Error(`${TRUST_DATA_FILE} not existed!`);
+        break;
+      case "Company":
+        const COMPANY_DATA_FILE = './test/data/company.json';
+        if (fs.existsSync(COMPANY_DATA_FILE)) entityArray = require('../data/company.json');
+        else throw new Error(`${COMPANY_DATA_FILE} not existed!`);
+        break;
+      case "OtherEntity":
+        const OTHERENTITY_DATA_FILE = './test/data/otherEntity.json';
+        if (fs.existsSync(OTHERENTITY_DATA_FILE)) entityArray = require('../data/otherEntity.json');
+        else throw new Error(`${OTHERENTITY_DATA_FILE} not existed!`);
+        break;
+      case "SMSF":
+        const SMSF_DATA_FILE = './test/data/smsf.json';
+        if (fs.existsSync(SMSF_DATA_FILE)) entityArray = require('../data/smsf.json');
+        else throw new Error(`${SMSF_DATA_FILE} not existed!`);
+        break;
+      case "BillableTrust":
+        const BILLABLETRUST_DATA_FILE = './test/data/billableTrust.json';
+        if (fs.existsSync(BILLABLETRUST_DATA_FILE)) entityArray = require('../data/billableTrust.json');
+        else throw new Error(`${BILLABLETRUST_DATA_FILE} not existed!`);
+        break;
+      case "BillableCompany":
+        const BILLABLECOMPANY_DATA_FILE = './test/data/billableCompany.json';
+        if (fs.existsSync(BILLABLECOMPANY_DATA_FILE)) entityArray = require('../data/billableCompany.json');
+        else throw new Error(`${BILLABLECOMPANY_DATA_FILE} not existed!`);
+        break;
+      default:
+        throw new Error(`Invalid entityType: ${entityType}`);
+    }
+  }
+  function getEntityPositionArray(entityType) {
+    switch (entityType) {
       case "Trust":
         entityPositionArray = entityPositionTrust;
-        const TRUST_DATA_FILE = './test/data/trust.json';
-        if (fs.existsSync(TRUST_DATA_FILE)) fromEntityArray = require('../data/trust.json');
-        else throw new Error(`${TRUST_DATA_FILE} not existed!`);
-        break
+        break;
       case "Company":
         entityPositionArray = entityPositionCompany;
-        const COMPANY_DATA_FILE = './test/data/company.json';
-        if (fs.existsSync(COMPANY_DATA_FILE)) fromEntityArray = require('../data/company.json');
-        else throw new Error(`${COMPANY_DATA_FILE} not existed!`);
-        break
+        break;
       case "OtherEntity":
         entityPositionArray = entityPositionOtherEntity;
-        const OTHERENTITY_DATA_FILE = './test/data/otherEntity.json';
-        if (fs.existsSync(OTHERENTITY_DATA_FILE)) fromEntityArray = require('../data/otherEntity.json');
-        else throw new Error(`${OTHERENTITY_DATA_FILE} not existed!`);
-        break
+        break;
       case "SMSF":
         entityPositionArray = entityPositionSMSF;
-        const SMSF_DATA_FILE = './test/data/smsf.json';
-        if (fs.existsSync(SMSF_DATA_FILE)) fromEntityArray = require('../data/smsf.json');
-        else throw new Error(`${SMSF_DATA_FILE} not existed!`);
-        break
+        break;
       case "BillableTrust":
         entityPositionArray = entityPositionBillableTrust;
-        const BILLABLETRUST_DATA_FILE = './test/data/billableTrust.json';
-        if (fs.existsSync(BILLABLETRUST_DATA_FILE)) fromEntityArray = require('../data/billableTrust.json');
-        else throw new Error(`${BILLABLETRUST_DATA_FILE} not existed!`);
-        break
+        break;
       case "BillableCompany":
         entityPositionArray = entityPositionBillableCompany;
-        const BILLABLECOMPANY_DATA_FILE = './test/data/billableCompany.json';
-        if (fs.existsSync(BILLABLECOMPANY_DATA_FILE)) fromEntityArray = require('../data/billableCompany.json');
-        else throw new Error(`${BILLABLECOMPANY_DATA_FILE} not existed!`);
-        break
+        break;
       default:
-        throw new Error(`Invalid entityFromType: ${entityRelationships[x].entityFromType}`);
+        throw new Error(`Invalid entityType: ${entityType}`);
     }
   }
 
-  function createRelationshipPayload(x, y) {
+  function createRelationshipPayloadOTM(x, y) {
     const payloadArray = [];
     let entityPositionArrayCopy = entityPositionArray.slice();
-    entityRelationships[x].entityPosition.forEach((ePosition) => {
+    entityRelationshipsOTM[x].entityPosition.forEach((ePosition) => {
       let entityPosition = '';
       if (ePosition == 'random') {
         entityPosition = entityPositionArrayCopy.splice(Math.floor(Math.random() * entityPositionArrayCopy.length), 1).toString();
       } else entityPosition = ePosition;
       payloadArray.push({
-        entityToType: entityRelationships[x].entityToType,
-        entityToId: entityRelationships[x].entityToId,
+        entityToType: entityRelationshipsOTM[x].entityToType,
+        entityToId: entityRelationshipsOTM[x].entityToId,
         entityPosition: entityPosition,
-        entityFromType: entityRelationships[x].entityFromType,
-        entityFromId: fromEntityArray[y].id
+        entityFromType: entityRelationshipsOTM[x].entityFromType,
+        entityFromId: entityArray[y].id
       })
     })
     return payloadArray;
   }
 
-  it('add entity relationships', async function () {
+  function createRelationshipPayloadMTO(x, y) {
+    const payloadArray = [];
+    let entityPositionArrayCopy = entityPositionArray.slice();
+    entityRelationshipsMTO[x].entityPosition.forEach((ePosition) => {
+      let entityPosition = '';
+      if (ePosition == 'random') {
+        entityPosition = entityPositionArrayCopy.splice(Math.floor(Math.random() * entityPositionArrayCopy.length), 1).toString();
+      } else entityPosition = ePosition;
+      payloadArray.push({
+        entityToType: entityRelationshipsMTO[x].entityToType,
+        entityToId: entityArray[entityArray.length - 1 - y].id,
+        entityPosition: entityPosition,
+        entityFromType: entityRelationshipsMTO[x].entityFromType,
+        entityFromId: entityRelationshipsMTO[x].entityFromId,
+      })
+    })
+    return payloadArray;
+  }
+
+  it.only('add entity relationships (one to many)', async function () {
     const RELATIONSHIP_DATA_FILE = './test/data/relationship.json';
     let relationshipIdArray = [];
     if (fs.existsSync(RELATIONSHIP_DATA_FILE)) relationshipIdArray = require('../data/relationship.json');
 
-    for (let x = 0; x < entityRelationships.length; x += 1) {
-      console.log(`creating entity relationship${x + 1} ......`);
-      getEntityRelationshipsData(x);
-      for (let y = 0; y < entityRelationships[x].relationship; y += 1) {
-        let payloadArray = createRelationshipPayload(x, y);
+    for (let x = 0; x < entityRelationshipsOTM.length; x += 1) {
+      console.log(`creating entity relationship${x + 1} (one to many)......`);
+      getEntityArray(entityRelationshipsOTM[x].entityFromType);
+      getEntityPositionArray(entityRelationshipsOTM[x].entityFromType);
+      for (let y = 0; y < entityRelationshipsOTM[x].relationship; y += 1) {
+        let payloadArray = createRelationshipPayloadOTM(x, y);
+        for (let z = 0; z < payloadArray.length; z += 1) {
+          // console.log("payloadArray", JSON.stringify(payloadArray[z]))
+          try {
+            relationshipId = await firmUtil.addEntityRelationship(payloadArray[z]);
+          }
+          catch (error) {
+            console.log(`----->${error}<-----`);
+            continue;
+          }
+          payloadArray[z].relationshipId = relationshipId;
+          relationshipIdArray.push(payloadArray[z]);
+        }
+      }
+    }
+    fs.writeFileSync(RELATIONSHIP_DATA_FILE, JSON.stringify(relationshipIdArray, null, 2), 'utf8');
+  });
+
+  it('add entity relationships (many to one)', async function () {
+    const RELATIONSHIP_DATA_FILE = './test/data/relationship.json';
+    let relationshipIdArray = [];
+    if (fs.existsSync(RELATIONSHIP_DATA_FILE)) relationshipIdArray = require('../data/relationship.json');
+
+    for (let x = 0; x < entityRelationshipsMTO.length; x += 1) {
+      console.log(`creating entity relationship${x + 1} (many to one)......`);
+      getEntityArray(entityRelationshipsMTO[x].entityToType);
+      getEntityPositionArray(entityRelationshipsMTO[x].entityFromType);
+      for (let y = 0; y < entityRelationshipsMTO[x].relationship; y += 1) {
+        let payloadArray = createRelationshipPayloadMTO(x, y);
         for (let z = 0; z < payloadArray.length; z += 1) {
           // console.log("payloadArray", JSON.stringify(payloadArray[z]))
           try {
